@@ -6,7 +6,7 @@
 - **Target:** `worldwap.thm`
 - **Difficulty:** Medium
 - **Category:** Web Application Security
-- **Assessment Date:** October 11, 2026 — verify against your actual completion date
+- **Assessment Date:** October 11, 2026
 - **Methodology:** PTES-inspired workflow
 - **Status:** Completed
 
